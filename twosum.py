@@ -1,6 +1,18 @@
 # Communication Steps
 
-# TODO: Add communication steps
+# - The Problem
+
+# - Clarifiying Questions
+
+# - Assumptions
+
+# - Think out loud
+# -- Brainstorm Solutions
+# -- Explain Rationale
+# -- Discuss Tradeoffs
+# -- Suggest Improvements
+
+
 
 class Solution(object):
     def twoSum(self, nums, target):
